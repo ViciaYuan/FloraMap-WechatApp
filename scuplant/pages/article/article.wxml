@@ -1,0 +1,8 @@
+<!--pages/article/article.wxml-->
+<view class="page-container">
+  <view class="web-container">
+    <swiper class='web-swiper'>
+  </view>
+</view>
+
+

@@ -1,1 +1,1 @@
-# FloraMap-WechatApp
+# FloraMap-wechatapp
