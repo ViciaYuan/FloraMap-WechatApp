@@ -1,8 +1,4 @@
 <!--pages/article/article.wxml-->
-<view class="page-container">
-  <view class="web-container">
-    <swiper class='web-swiper'>
-  </view>
-</view>
+<web-view src="http://202.115.55.252/magic/list.aspx" ></web-view>
 
 
